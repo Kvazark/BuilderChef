@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HnoxHIvQGRrS98UeEOr90Zw0MAhITh/PXxy9e0JRr9FZ0J+F+zJD7BGetJms9b25KW0z1KR6AwYfVsFp9lX6pQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\RiderProjects\\BuilderChef\\Singleton\\Singleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
